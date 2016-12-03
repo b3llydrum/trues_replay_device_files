@@ -1,0 +1,34 @@
+#! /usr/bin/env python3
+
+# this script requires some hardcoding on line 24 when used on a computer other than my laptop
+
+import os, sys
+
+# get game filepath
+print('\n')
+os.system('ls input_files')
+print('\n')
+game = input('Paste the name of the game file on the line below.\n').lower()
+path = os.path.abspath('input_files/' + game)
+
+# make sure device is connected
+confirm = input('\nIs the nes-snes replay device connected to the USB port on the right of your MacBook Pro? (y/N)\n')
+while confirm != 'y' and confirm != 'N':
+    print('Enter \'y\' or \'N\'.')
+if confirm == 'N':
+    print('Connect the nes-snes replay device to the USB port on the right of your MacBook Pro.\n')
+    sys.exit(1)
+
+# change this depending on the devices connection port
+try:
+    port = '/dev/tty.usbmodem1421'
+except:
+    print('No connection found.\n')
+    sys.exit(1)
+
+command = 'sudo python replay.py {path} {port} 1 f 600'.format(
+        path = path,
+        port = port
+        )
+
+os.system(command)
