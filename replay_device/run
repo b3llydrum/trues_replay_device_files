@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# this script requires some hardcoding on line 24 when used on a computer other than my laptop
+# this script requires some hardcoding around line 24 for the port variable
 
 import os, sys
 

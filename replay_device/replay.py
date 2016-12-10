@@ -1,4 +1,4 @@
-﻿#! C:\\Users\\david_000\\AppData\\Local\\Programs\\Python\\Python35-32
+﻿#! /usr/bin/env python
 
 import os
 import serial

@@ -1,0 +1,409 @@
+-----------------------------------------------------------------------
+lsnes started at 2016-12-04 20:44:29 Central Standard Time
+-----------------------------------------------------------------------
+Detected 10 sound devices.
+Audio device 0: Wine Sound Mapper - Input
+Audio device 1: Built-in Microphone
+Audio device 2: Wine Sound Mapper - Output
+Audio device 3: Built-in Output
+Audio device 4: Primary Sound Driver
+Audio device 5: Built-in Microphone
+Audio device 6: Primary Sound Driver
+Audio device 7: Built-in Output
+Audio device 8: Built-in Microphone
+Audio device 9: Built-in Output
+Portaudio: Output: 44100Hz Stereo on 'Wine Sound Mapper - Output
+Portaudio: Input: 44100Hz Stereo on 'Wine Sound Mapper - Input
+Joystick #0 online: SNES PC Game Pad   
+lsnes version: lsnes rr2-β23
+Can't read directory 'C:\users\davidmaness\Application Data/lsnes/autoload'
+Can't read directory 'Z:\Users\davidmaness\Games\emulators\lsnes/plugins'
+Saving per-user data to: C:\users\davidmaness\Application Data/lsnes
+--- Loading configuration --- 
+Setting advance-subframe-timeout set to 100
+Setting advance-timeout set to 500
+Setting avi-bottom-border set to 0
+Setting avi-cscd-compression set to 7
+Setting avi-cscd-keyint set to 0
+Setting avi-large set to no
+Setting avi-left-border set to 0
+Setting avi-maxframes set to 0
+Setting avi-right-border set to 0
+Setting avi-soundrate set to High quality 48kHz
+Setting avi-top-border set to 0
+Setting avi-tscc-compression set to 7
+Setting avi-tscc-keyint set to 299
+Setting avi-xfactor set to 0
+Setting avi-yfactor set to 0
+Setting avi-zmbv-blockh set to 16
+Setting avi-zmbv-blockw set to 16
+Setting avi-zmbv-compression set to 7
+Setting avi-zmbv-fullsearch set to no
+Setting avi-zmbv-keyint set to 299
+Setting bottom-border set to 0
+Setting dont-check-savestate set to no
+Setting firmwarepath set to 
+Setting jmd-compression set to 7
+Setting jukebox-default-binary set to yes
+Setting jukebox-size set to 12
+Setting left-border set to 0
+Setting lua-maxmem set to 128
+Setting movie-default-binary set to no
+Setting moviepath set to 
+Setting opus-bitrate set to 48000
+Setting opus-max-bitrate set to 255000
+Setting pause-on-end set to no
+Setting preserve_on_readonly_load set to yes
+Setting right-border set to 0
+Setting rompath set to 
+Setting savecompression set to 7
+Setting savestate-default-binary set to no
+Setting slotpath set to 
+Setting top-border set to 0
+space bound to 'pause-emulator'
+shift bound to 'reset'
+right bound to '+advance-frame'
+joystick0button7 bound (button) to +controller gamepad-1-start
+joystick0button0 bound (button) to +controller gamepad-1-B
+joystick0button6 bound (button) to +controller gamepad-1-select
+joystick0button2 bound (button) to +controller gamepad-1-Y
+joystick0axis1- bound (button) to +controller gamepad-1-up
+joystick0axis1+ bound (button) to +controller gamepad-1-down
+joystick0axis0- bound (button) to +controller gamepad-1-left
+joystick0axis0+ bound (button) to +controller gamepad-1-right
+joystick0button1 bound (button) to +controller gamepad-1-A
+joystick0button3 bound (button) to +controller gamepad-1-X
+joystick0button4 bound (button) to +controller gamepad-1-L
+joystick0button5 bound (button) to +controller gamepad-1-R
+--- End running lsnesrc --- 
+Using core: null core
+Rerecords 0 length 00:00.000 (0 frames)
+Error running Lua hunk: [string "Z:\Users\davidmaness\Games\hacking_and_tasing..."]:14: attempt to concatenate a nil value (local 'filename')
+Dumping to hey.latsf.r16m
+Dumping to hey.latsf.r16m
+Loading ROM Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc
+Using core: bsnes v085 (Compatibility core)
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc.msu
+ROM reloaded.
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc.msu
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+ROM Type SNES region NTSC
+Rerecords 1 length 01:08.787 (4134 frames)
+Loaded 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 153340 microseconds.
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+Movie rewound to beginning.
+Dumping to hey.latsf.r16m
+Unknown command 'ls'
+Unknown command 'print'
+Unknown command 'while'
+-----------------------------------------------------------------------
+lsnes started at 2016-12-04 21:20:07 Central Standard Time
+-----------------------------------------------------------------------
+Detected 10 sound devices.
+Audio device 0: Wine Sound Mapper - Input
+Audio device 1: Built-in Microphone
+Audio device 2: Wine Sound Mapper - Output
+Audio device 3: Built-in Output
+Audio device 4: Primary Sound Driver
+Audio device 5: Built-in Microphone
+Audio device 6: Primary Sound Driver
+Audio device 7: Built-in Output
+Audio device 8: Built-in Microphone
+Audio device 9: Built-in Output
+Portaudio: Output: 44100Hz Stereo on 'Wine Sound Mapper - Output
+Portaudio: Input: 44100Hz Stereo on 'Wine Sound Mapper - Input
+Joystick #0 online: SNES PC Game Pad   
+lsnes version: lsnes rr2-β23
+Can't read directory 'C:\users\davidmaness\Application Data/lsnes/autoload'
+Can't read directory 'Z:\Users\davidmaness\Games\emulators\lsnes/plugins'
+Saving per-user data to: C:\users\davidmaness\Application Data/lsnes
+--- Loading configuration --- 
+Setting advance-subframe-timeout set to 100
+Setting advance-timeout set to 500
+Setting avi-bottom-border set to 0
+Setting avi-cscd-compression set to 7
+Setting avi-cscd-keyint set to 0
+Setting avi-large set to no
+Setting avi-left-border set to 0
+Setting avi-maxframes set to 0
+Setting avi-right-border set to 0
+Setting avi-soundrate set to High quality 48kHz
+Setting avi-top-border set to 0
+Setting avi-tscc-compression set to 7
+Setting avi-tscc-keyint set to 299
+Setting avi-xfactor set to 0
+Setting avi-yfactor set to 0
+Setting avi-zmbv-blockh set to 16
+Setting avi-zmbv-blockw set to 16
+Setting avi-zmbv-compression set to 7
+Setting avi-zmbv-fullsearch set to no
+Setting avi-zmbv-keyint set to 299
+Setting bottom-border set to 0
+Setting dont-check-savestate set to no
+Setting firmwarepath set to 
+Setting jmd-compression set to 7
+Setting jukebox-default-binary set to yes
+Setting jukebox-size set to 12
+Setting left-border set to 0
+Setting lua-maxmem set to 128
+Setting movie-default-binary set to no
+Setting moviepath set to 
+Setting opus-bitrate set to 48000
+Setting opus-max-bitrate set to 255000
+Setting pause-on-end set to no
+Setting preserve_on_readonly_load set to yes
+Setting right-border set to 0
+Setting rompath set to 
+Setting savecompression set to 7
+Setting savestate-default-binary set to no
+Setting slotpath set to 
+Setting top-border set to 0
+space bound to 'pause-emulator'
+shift bound to 'reset'
+right bound to '+advance-frame'
+joystick0button7 bound (button) to +controller gamepad-1-start
+joystick0button0 bound (button) to +controller gamepad-1-B
+joystick0button6 bound (button) to +controller gamepad-1-select
+joystick0button2 bound (button) to +controller gamepad-1-Y
+joystick0axis1- bound (button) to +controller gamepad-1-up
+joystick0axis1+ bound (button) to +controller gamepad-1-down
+joystick0axis0- bound (button) to +controller gamepad-1-left
+joystick0axis0+ bound (button) to +controller gamepad-1-right
+joystick0button1 bound (button) to +controller gamepad-1-A
+joystick0button3 bound (button) to +controller gamepad-1-X
+joystick0button4 bound (button) to +controller gamepad-1-L
+joystick0button5 bound (button) to +controller gamepad-1-R
+--- End running lsnesrc --- 
+Using core: null core
+Rerecords 0 length 00:00.000 (0 frames)
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc.msu
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+ROM Type SNES region NTSC
+Rerecords 1 length 01:08.787 (4134 frames)
+Loaded 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 217127 microseconds.
+Saved movie (zip format) 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 2008 microseconds.
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+Movie rewound to beginning.
+ROM reloaded.
+Loading ROM Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc
+Using core: bsnes v085 (Compatibility core)
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc.msu
+ROM reloaded.
+Loading ROM Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc
+Using core: bsnes v085 (Compatibility core)
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc.msu
+ROM reloaded.
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc.msu
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+ROM Type SNES region NTSC
+Rerecords 0 length 00:00.000 (0 frames)
+Loaded '$MEMORY:wxwidgets-romload-tmp' in 141535 microseconds.
+Saved movie (zip format) 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 2277 microseconds.
+Loading ROM Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc
+Using core: bsnes v085 (Compatibility core)
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc.msu
+ROM reloaded.
+Movie rewound to beginning.
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\super_mario_world\00 - Super Mario World (U) [!].smc.msu
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+ROM Type SNES region NTSC
+Rerecords 0 length 00:34.011 (2044 frames)
+Loaded 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 145682 microseconds.
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+ROM Type SNES region NTSC
+Rerecords 0 length 00:34.011 (2044 frames)
+Loaded 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 4531 microseconds.
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+Movie rewound to beginning.
+Error running Lua hunk: [string "start_dump('mario_test')"]:1: attempt to call a nil value (global 'start_dump')
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+ROM Type SNES region NTSC
+Rerecords 0 length 00:34.011 (2044 frames)
+Loaded 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 4387 microseconds.
+Error running Lua hunk: [string "start_dump('mario_test')"]:1: attempt to call a nil value (global 'start_dump')
+Error running Lua hunk: [string "start_dump('hey')"]:1: attempt to call a nil value (global 'start_dump')
+Dumping to hey.latsf.r16m
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+Movie rewound to beginning.
+Dumping halted
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+Movie rewound to beginning.
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+Movie rewound to beginning.
+Saved movie (zip format) 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 5346 microseconds.
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+ROM Type SNES region NTSC
+Rerecords 7 length 02:32.083 (9140 frames)
+Loaded 'Z:\Users\davidmaness\Games\hacking_and_tasing\movies\non_verified\super_mario_world\mario_test.lsmv' in 8755 microseconds.
+WARNING: SRAM 'srm': Loaded 0 bytes, but the SRAM is 2048.
+Movie rewound to beginning.
+Dumping to hey.latsf.r16m
+Dumping halted
+Sound output closed.
+Sound input closed.
+-----------------------------------------------------------------------
+lsnes shutting down at 2016-12-04 21:42:30 Central Standard Time
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+lsnes started at 2016-12-04 21:46:37 Central Standard Time
+-----------------------------------------------------------------------
+Detected 10 sound devices.
+Audio device 0: Wine Sound Mapper - Input
+Audio device 1: Built-in Microphone
+Audio device 2: Wine Sound Mapper - Output
+Audio device 3: Built-in Output
+Audio device 4: Primary Sound Driver
+Audio device 5: Built-in Microphone
+Audio device 6: Primary Sound Driver
+Audio device 7: Built-in Output
+Audio device 8: Built-in Microphone
+Audio device 9: Built-in Output
+Portaudio: Output: 44100Hz Stereo on 'Wine Sound Mapper - Output
+Portaudio: Input: 44100Hz Stereo on 'Wine Sound Mapper - Input
+lsnes version: lsnes rr2-β23
+Can't read directory 'C:\users\davidmaness\Application Data/lsnes/autoload'
+Can't read directory 'Z:\Users\davidmaness\Games\emulators\lsnes/plugins'
+Saving per-user data to: C:\users\davidmaness\Application Data/lsnes
+--- Loading configuration --- 
+Setting advance-subframe-timeout set to 100
+Setting advance-timeout set to 500
+Setting avi-bottom-border set to 0
+Setting avi-cscd-compression set to 7
+Setting avi-cscd-keyint set to 0
+Setting avi-large set to no
+Setting avi-left-border set to 0
+Setting avi-maxframes set to 0
+Setting avi-right-border set to 0
+Setting avi-soundrate set to High quality 48kHz
+Setting avi-top-border set to 0
+Setting avi-tscc-compression set to 7
+Setting avi-tscc-keyint set to 299
+Setting avi-xfactor set to 0
+Setting avi-yfactor set to 0
+Setting avi-zmbv-blockh set to 16
+Setting avi-zmbv-blockw set to 16
+Setting avi-zmbv-compression set to 7
+Setting avi-zmbv-fullsearch set to no
+Setting avi-zmbv-keyint set to 299
+Setting bottom-border set to 0
+Setting dont-check-savestate set to no
+Setting firmwarepath set to 
+Setting jmd-compression set to 7
+Setting jukebox-default-binary set to yes
+Setting jukebox-size set to 12
+Setting left-border set to 0
+Setting lua-maxmem set to 128
+Setting movie-default-binary set to no
+Setting moviepath set to 
+Setting opus-bitrate set to 48000
+Setting opus-max-bitrate set to 255000
+Setting pause-on-end set to no
+Setting preserve_on_readonly_load set to yes
+Setting right-border set to 0
+Setting rompath set to 
+Setting savecompression set to 7
+Setting savestate-default-binary set to no
+Setting slotpath set to 
+Setting top-border set to 0
+space bound to 'pause-emulator'
+shift bound to 'reset'
+right bound to '+advance-frame'
+joystick0button7 bound (button) to +controller gamepad-1-start
+joystick0button0 bound (button) to +controller gamepad-1-B
+joystick0button6 bound (button) to +controller gamepad-1-select
+joystick0button2 bound (button) to +controller gamepad-1-Y
+joystick0axis1- bound (button) to +controller gamepad-1-up
+joystick0axis1+ bound (button) to +controller gamepad-1-down
+joystick0axis0- bound (button) to +controller gamepad-1-left
+joystick0axis0+ bound (button) to +controller gamepad-1-right
+joystick0button1 bound (button) to +controller gamepad-1-A
+joystick0button3 bound (button) to +controller gamepad-1-X
+joystick0button4 bound (button) to +controller gamepad-1-L
+joystick0button5 bound (button) to +controller gamepad-1-R
+--- End running lsnesrc --- 
+Using core: null core
+Rerecords 0 length 00:00.000 (0 frames)
+Loading ROM Z:\Users\davidmaness\Games\roms\snes\jim_power\Jim Power - The Lost Dimension in 3D.smc
+Using core: bsnes v085 (Compatibility core)
+MSU main data file: Z:\Users\davidmaness\Games\roms\snes\jim_power\Jim Power - The Lost Dimension in 3D.smc.msu
+ROM reloaded.
+Movie rewound to beginning.
+-----------------------------------------------------------------------
+lsnes started at 2016-12-05 08:31:25 Central Standard Time
+-----------------------------------------------------------------------
+Detected 10 sound devices.
+Audio device 0: Wine Sound Mapper - Input
+Audio device 1: Built-in Microphone
+Audio device 2: Wine Sound Mapper - Output
+Audio device 3: Built-in Output
+Audio device 4: Primary Sound Driver
+Audio device 5: Built-in Microphone
+Audio device 6: Primary Sound Driver
+Audio device 7: Built-in Output
+Audio device 8: Built-in Microphone
+Audio device 9: Built-in Output
+Portaudio: Output: 44100Hz Stereo on 'Wine Sound Mapper - Output
+Portaudio: Input: 44100Hz Stereo on 'Wine Sound Mapper - Input
+lsnes version: lsnes rr2-β23
+Can't read directory 'C:\users\davidmaness\Application Data/lsnes/autoload'
+Can't read directory 'Z:\Users\davidmaness\Games\emulators\lsnes/plugins'
+Saving per-user data to: C:\users\davidmaness\Application Data/lsnes
+--- Loading configuration --- 
+Setting advance-subframe-timeout set to 100
+Setting advance-timeout set to 500
+Setting avi-bottom-border set to 0
+Setting avi-cscd-compression set to 7
+Setting avi-cscd-keyint set to 0
+Setting avi-large set to no
+Setting avi-left-border set to 0
+Setting avi-maxframes set to 0
+Setting avi-right-border set to 0
+Setting avi-soundrate set to High quality 48kHz
+Setting avi-top-border set to 0
+Setting avi-tscc-compression set to 7
+Setting avi-tscc-keyint set to 299
+Setting avi-xfactor set to 0
+Setting avi-yfactor set to 0
+Setting avi-zmbv-blockh set to 16
+Setting avi-zmbv-blockw set to 16
+Setting avi-zmbv-compression set to 7
+Setting avi-zmbv-fullsearch set to no
+Setting avi-zmbv-keyint set to 299
+Setting bottom-border set to 0
+Setting dont-check-savestate set to no
+Setting firmwarepath set to 
+Setting jmd-compression set to 7
+Setting jukebox-default-binary set to yes
+Setting jukebox-size set to 12
+Setting left-border set to 0
+Setting lua-maxmem set to 128
+Setting movie-default-binary set to no
+Setting moviepath set to 
+Setting opus-bitrate set to 48000
+Setting opus-max-bitrate set to 255000
+Setting pause-on-end set to no
+Setting preserve_on_readonly_load set to yes
+Setting right-border set to 0
+Setting rompath set to 
+Setting savecompression set to 7
+Setting savestate-default-binary set to no
+Setting slotpath set to 
+Setting top-border set to 0
+space bound to 'pause-emulator'
+shift bound to 'reset'
+right bound to '+advance-frame'
+joystick0button7 bound (button) to +controller gamepad-1-start
+joystick0button0 bound (button) to +controller gamepad-1-B
+joystick0button6 bound (button) to +controller gamepad-1-select
+joystick0button2 bound (button) to +controller gamepad-1-Y
+joystick0axis1- bound (button) to +controller gamepad-1-up
+joystick0axis1+ bound (button) to +controller gamepad-1-down
+joystick0axis0- bound (button) to +controller gamepad-1-left
+joystick0axis0+ bound (button) to +controller gamepad-1-right
+joystick0button1 bound (button) to +controller gamepad-1-A
+joystick0button3 bound (button) to +controller gamepad-1-X
+joystick0button4 bound (button) to +controller gamepad-1-L
+joystick0button5 bound (button) to +controller gamepad-1-R
+--- End running lsnesrc --- 
+Using core: null core
+Rerecords 0 length 00:00.000 (0 frames)
