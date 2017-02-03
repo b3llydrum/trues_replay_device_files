@@ -9,4 +9,4 @@ the terminal commands easier (nonexistant)
 
 If you'd like to learn more, check out TASVideos.org
 
-And catch TASBot at AGDQ 2017, or on Twitter at @MrTASBot
+And catch TASBot at SGDQ 2017, or on Twitter at @MrTASBot
