@@ -4,8 +4,7 @@ All of the work was done by true and DwangoAC.
 
 I did not write any of the Lua scripts or the replay.py file.
 
-I only wrote the run.py file to make running
-the terminal commands easier (nonexistant)
+run.py is a wrapper for the replay.py execution that I wrote to make life easier.
 
 If you'd like to learn more, check out TASVideos.org
 
